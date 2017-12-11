@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33462669622196534}
   - component: {fileID: 65991736313042478}
   - component: {fileID: 23490010698940916}
-  - component: {fileID: 114301260769421288}
+  - component: {fileID: 114262636848480954}
   m_Layer: 0
   m_Name: Horizontal Cube
   m_TagString: Untagged
@@ -96,7 +96,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &114301260769421288
+--- !u!114 &114262636848480954
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -104,7 +104,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1219359971859972}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b5ececf00f3723d4dbe85cda74244aff, type: 3}
+  m_Script: {fileID: 11500000, guid: 131f0354bdb7c499daa45675004e5fe9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   motionState: 1
